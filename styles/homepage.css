@@ -1,0 +1,25 @@
+body{
+    background-color:#865DFF;
+}
+
+.heading{
+    text-align: center;
+}
+
+.anime-gif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 50%;
+}
+
+.page-links{
+    text-align: center;
+    list-style: none;
+}
+
+.fried-rice, .patty-melt, .hot-honey{
+    color:#ECF2FF;
+    font-size: 30px;
+}
